@@ -4,7 +4,7 @@
 
 HoloLens application for designing motion capture setups in augmented reality.
 
-Plays well with Qualisys Miqus cameras.
+Currently based on frustum geometries from Qualisys Miqus cameras.
 
 ## Dependencies
 
