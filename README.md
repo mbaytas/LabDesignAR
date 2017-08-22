@@ -1,7 +1,5 @@
 # LabDesignAR
 
-[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
-
 ![Screenshot from LabDesignAR, 1:1 scale "life size" models](/_screenshots/lifesize.png) ![Screenshot from LabDesignAR, 1:10 scale "tabletop" models](/_screenshots/desktop.png)
 
 HoloLens application for designing motion capture setups in augmented reality.
