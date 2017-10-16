@@ -6,6 +6,8 @@ HoloLens application for designing motion capture setups in augmented reality.
 
 Currently based on frustum geometries from Qualisys Miqus cameras.
 
+Video: [youtu.be/pVLuhdhDazM](https://youtu.be/pVLuhdhDazM)
+
 ## Dependencies
 
 Requires:
@@ -16,7 +18,7 @@ Requires:
 
 ## Notes
 
-- Some sound files and 3D models of motion capture cameras (which are required to compile) are not included here, since I cannot distribute them. Thus. this repo is mainly intended for reference purposes, and to serve as a companion to demonstrations. Those who are interested in compiling and running the full application can do so after replacing the camera model in the 'Miqus' game objects and replacing/removing sounds.
+- Some sound files and 3D models of motion capture cameras (which are required to compile) are not included here, since I cannot distribute them. Thus. this repo is mainly intended for reference purposes. Those who are interested in compiling and running the full application can do so after replacing the camera model in the 'Miqus' game objects and replacing/removing sounds.
 
 ---
 
